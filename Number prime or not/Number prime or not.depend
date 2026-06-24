@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1782222720 source:c:\users\mysel\onedrive\documents\c projects iust\number prime or not\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
